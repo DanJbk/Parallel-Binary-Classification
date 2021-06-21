@@ -1,2 +1,2 @@
 # Parallel-Binary-Classification
-this project solves Parallel implementation of Binary Classification using OpenMp and MPI and Cuda
+this project solves A changing Binary Classification problem in parrlel using OpenMp, MPI and Cuda.
